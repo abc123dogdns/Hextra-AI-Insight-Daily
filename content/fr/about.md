@@ -4,33 +4,32 @@ type: about
 sidebar:
   exclude: true
 ---
+
 #### 👋 何夕2077 / justlovemaki
 
-> Dix ans de code, les doigts sont froids,
-> Le cœur lourd, pas encore soulagé.
-> Quand l'IA fait du boucan, ça bouge,
-> J'jure de me jeter à fond dans la mêlée !
+> 十载代码指尖凉，胸中块垒郁未扬。
+> 忽闻智能风雷动，誓向云天搏一场。
 
-#### 🚀 Ma philo du code
+#### 🚀 我的代码哲学
 
-> La tech au service des gens
+> 技术为人民服务
 
-#### ✨ Mes pépites
+#### ✨ 代表作
 
-*   **[Contribution open source/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   Un script pour générer des images IA avec les Workers de Cloudflare.
-*   **[Contribution open source/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Une plateforme d'agrégation et de génération de contenu propulsée par Cloudflare Workers. Elle vous déniche chaque jour les dernières infos dans le domaine de l'IA, comme les news du secteur, les projets open source qui cartonnent, les papiers de recherche les plus pointus et les avis des gros influenceurs tech sur les réseaux.
-*   Plus de détails sur mes projets, zieute mon [GitHub](https://github.com/justlovemaki).
+*   **[开源贡献/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   基于Cloudflare Worker的AI图片生成脚本
+*   **[开源贡献/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论
+*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
 
-#### 🌱 Ce que j'explore en ce moment
+#### 🌱 当前探索
 
-Je suis à fond sur les applications LLM et le SEO de sites web, et je me plonge dedans à fond pour apprendre et mettre en pratique.
+对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
 
-#### 📫 Contacte-moi
+#### 📫 联系我
 
 *   **Email:** [274166795@qq.com](mailto:274166795@qq.com)
 *   **GitHub:** [https://github.com/justlovemaki](https://github.com/justlovemaki)
 *   {{< cards >}}
-    {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Mon WeChat perso" subtitle="N'hésite pas à m'ajouter pour discuter" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+    {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="个人微信" subtitle="欢迎加我交流" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
     {{< /cards >}}
